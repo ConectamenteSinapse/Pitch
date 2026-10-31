@@ -12,7 +12,7 @@ Este repositório contém o vídeo de apresentação (*pitch*) do projeto Conect
 
 ## Vídeo
 
-[Assistir ao Pitch do ConectaMente](pitch.mp4)
+[Assistir ao Pitch do ConectaMente](Pitch.mp4)
 
 ## Equipe Sinapse
 
