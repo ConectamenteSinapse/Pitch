@@ -21,3 +21,5 @@ Projeto desenvolvido pela equipe Sinapse, no curso de Desenvolvimento de Softwar
 ---
 
 **ConectaMente — Tecnologia e autonomia em cada conquista.**
+
+# Pitch
